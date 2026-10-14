@@ -1,0 +1,8 @@
+.DS_Store
+log.txt
+settings.json
+dialogs.json
+pos.json
+*.bak*
+dog
+build/
